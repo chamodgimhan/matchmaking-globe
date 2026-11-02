@@ -22,4 +22,4 @@ One HTML file, no build step and no server. Open `index.html` in a browser and i
 
 ## Run it locally
 
-Download `index.html` and open it in Chrome, Edge or Firefox.
+Download `matchmap-offline.html` and open it in Chrome, Edge or Firefox.
